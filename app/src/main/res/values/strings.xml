@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Калькулятор БЖУ</string>
+    <string name="fats">Жиры (г)</string>
+    <string name="carbohydrates">Углеводы (г)</string>
+    <string name="calculate">Рассчитать</string>
+    <string name="calorieContent">Калорийность: </string>
+    <string name="protein">Белки (г)</string>
+    <string name="calculatorBju">Калькулятор БЖУ</string>
+</resources>
